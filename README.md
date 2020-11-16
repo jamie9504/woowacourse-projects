@@ -101,9 +101,9 @@
 
 ## 📹 Tecotalk : 크루들에게 지식을 공유하는 방법
 
-### 발표 주제 : 빌드와 배포
+### 발표 주제 : Proxy & Load Balancer
 
-- [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
+- [제이미의 Forward Proxy, Reverse Proxy, Load Balancer - Youtube](https://www.youtube.com/watch?v=YxwYhenZ3BE&t=52s)
 
 <br/>
 
@@ -124,7 +124,7 @@
 
 <br/>
 
-## 👍 우리동네캡짱 프로젝트 : 조직 내에서 중고 거래를!
+## 👍 우리동네캡짱 프로젝트 : 지역, 부문별 자랑거리를 뽐내고! 추천(좋아요)하고! 수상하는! 서비스
 
 ### 서비스
 
@@ -154,4 +154,10 @@
 
 ### 진행 미션
 
-- comming soon...
+|       Project        |                          Repository                          |                         Pull Request                         |
+| :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|    jwp-was / step1    | [jwp-was/step1](https://github.com/jamie9504/jwp-was/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/108) |
+|    jwp-was / step2    | [jwp-was/step2](https://github.com/jamie9504/jwp-was/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/156) |
+|    jwp-was / step3    | [jwp-was/step3](https://github.com/jamie9504/jwp-was/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/157) |
+|    jwp-refactoring / step1    | [jwp-was/step1](https://github.com/jamie9504/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/5) |
+
