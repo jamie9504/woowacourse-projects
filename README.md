@@ -86,16 +86,16 @@
 
 |       Project        |                          Repository                          |                         Pull Request                         |
 | :------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|     체스 / step1     | [jwp-chess/step1](https://github.com/lxxjn0/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/37) |
-|     체스 / step2     | [jwp-chess/step2](https://github.com/lxxjn0/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/87) |
-|     체스 / step3     | [jwp-chess/step3](https://github.com/lxxjn0/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/122) |
-|     체스 / step4     | [jwp-chess/step4](https://github.com/lxxjn0/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/209) |
-|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/lxxjn0/atdd-subway-admin) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/6) |
-|   지하철 경로 조회   | [atdd-subway-path](https://github.com/lxxjn0/atdd-subway-path) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/47) |
-| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/lxxjn0/atdd-subway-favorite) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/52) |
-|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/lxxjn0/atdd-subway-admin-frontend) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/54) |
-|    사용자 이야기     | [woowa-userstory-2020](https://github.com/lxxjn0/woowa-userstory-2020) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/51) |
-|      Todo List       |        [todolist](https://github.com/lxxjn0/todolist)        |                       comming soon...                        |
+|     체스 / step1     | [jwp-chess/step1](https://github.com/jamie9504/jwp-chess/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/22) |
+|     체스 / step2     | [jwp-chess/step2](https://github.com/jamie9504/jwp-chess/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/74) |
+|     체스 / step3     | [jwp-chess/step3](https://github.com/jamie9504/jwp-chess/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/132) |
+|     체스 / step4     | [jwp-chess/step4](https://github.com/jamie9504/jwp-chess/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-chess/pull/202) |
+|   지하철 정보 관리   | [atdd-subway-admin](https://github.com/jamie9504/atdd-subway-admin/tree/mission) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin/pull/8) |
+|   지하철 경로 조회   | [atdd-subway-path](https://github.com/jamie9504/atdd-subway-path/tree/tdd) | [Pull Request](https://github.com/woowacourse/atdd-subway-path/pull/15) |
+| 지하철 경로 즐겨찾기 | [atdd-subway-favorite](https://github.com/jamie9504/atdd-subway-favorite/tree/atdd-mission) | [Pull Request](https://github.com/woowacourse/atdd-subway-favorite/pull/32) |
+|  지하철 Admin CRUD   | [atdd-subway-admin-frontend](https://github.com/jamie9504/atdd-subway-admin-frontend/tree/feat/station-crud) | [Pull Request](https://github.com/woowacourse/atdd-subway-admin-frontend/pull/49) |
+|    사용자 이야기     | [woowa-userstory-2020](https://github.com/jamie9504/woowa-userstory-2020/tree/userStory) | [Pull Request](https://github.com/woowacourse/woowa-userstory-2020/pull/35) |
+|      Todo List       |  [todolist](https://github.com/jamie9504/todolist)  |  [Pull Request](https://github.com/woowacourse/todolist/pull/20)  |
 
 <br/>
 
@@ -104,20 +104,6 @@
 ### 발표 주제 : 빌드와 배포
 
 - [스티치의 빌드와 배포 - Youtube](https://www.youtube.com/watch?v=6SvUZqbU37E&t=2s)
-
-<br/>
-
-## 👋🏻 SUPP 프로젝트 : 식전 수프처럼 페어와의 협업 맛을 돋우는 에피타이저
-
-### 서비스
-
-- [SUPP](https://d10qlfpm4ciz64.cloudfront.net/)
-- [SUPP 소개글](https://github.com/woowa-supp/supp/blob/master/README.md)
-
-### Github Repository
-
-- [supp](https://github.com/woowa-supp/supp)
-- [supp-chrome-extension](https://github.com/woowa-supp/supp-chrome-extension)
 
 <br/>
 
@@ -134,31 +120,24 @@
 
 ### 진행 미션
 
-- 직고래 프로젝트
+- 우리동네캡짱 프로젝트
 
 <br/>
 
-## 🐳 직고래 프로젝트 : 조직 내에서 중고 거래를!
-
-> 참고. 서비스 명이 샐러리(seller-lee)에서 직고래(jikgorae)로 변경되었습니다. repository의 이름에서 혼용되고 있는 점 양해 부탁드립니다 :)
+## 👍 우리동네캡짱 프로젝트 : 조직 내에서 중고 거래를!
 
 ### 서비스
 
-- [안드로이드 어플 링크](https://play.google.com/store/apps/details?id=com.sellerleecompany.jikgorae)
-- [직고래 데모 사이트](https://sites.google.com/woowahan.com/wooteco-demo/%EC%A7%81%EA%B3%A0%EB%9E%98)
-- [직고래 기술 블로그](https://seller-lee.github.io/)
+- [우리동네캡짱 서비스 사이트](https://www.capzzang.co.kr/)
+- [우리동네캡짱 데모 사이트](https://sites.google.com/woowahan.com/wooteco-demo/%EC%9A%B0%EB%A6%AC%EB%8F%99%EB%84%A4%EC%BA%A1%EC%A7%B1)
 
 ### Github Repository
 
-- [seller-lee-company](https://github.com/woowacourse-teams/2020-seller-lee-company)
-- [seller-lee.github.io](https://github.com/seller-lee/seller-lee.github.io)
+- [우리동네캡짱](https://github.com/woowacourse-teams/2020-legeno-around-here)
 
 ### 관련 영상
 
-- [1차 데모 - 서비스 및 팀 소개(발표자)](https://www.youtube.com/watch?v=JPmA2tIt8ME)
-- [2차 데모 - 빌드, 배포 그리고 자동화](https://www.youtube.com/watch?v=67TDNiSYRTM)
-- [최종 데모 - 개발문화와 프로젝트를 통해 느낀 점](https://www.youtube.com/watch?v=shq5CLRWB_I)
-- [프로젝트 소개 - 직고래](https://www.youtube.com/watch?v=ECl14dt7sQU)
+- [프로젝트 소개 - 우리동네캡짱](https://www.youtube.com/watch?v=YFzIuaXG4AE&t=1s)
 
 <br/>
 
@@ -170,52 +149,9 @@
 
 ### 학습 목표
 
-- 웹 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
-- JDBC 라이브러리, MVC, DI 프레임워크 구현을 통해 Spring 프레임워크의 동작 원리를 이해한다.
+- WAS 서버를 직접 구현해 HTTP를 이해하고, 서블릿 컨테이너의 동작 원리를 이해한다.
 - 레거시 프로젝트를 리팩토링하는 경험을 한다.
-- 객체지향 설계, 인증 및 보안, WebSocket 경험을 한다.
-- 대용량 서비스를 위한 시스템 아키텍처 설계, 데이터 처리 경험을 한다.
 
 ### 진행 미션
 
 - comming soon...
-
-<br/>
-
-## 🖋 Writing : 글쓰기 코스
-
-### 진행 미션
-
-| Level |                 Topic                  |                          Repository                          |                         Pull Request                         |
-| :---: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   |      우아한테크코스 한 달 생활기       | [woowa-writing-2/level1](https://github.com/lxxjn0/woowa-writing-2/tree/level1/level-1) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/47) |
-|   2   | 우테코에서 찾은 나만의 효과적인 학습법 | [woowa-writing-2/level2](https://github.com/lxxjn0/woowa-writing-2/tree/level2/level-2) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/109) |
-|   3   |      팀 프로젝트가 나에게 남긴 것      | [woowa-writing-2/level3](https://github.com/lxxjn0/woowa-writing-2/tree/level3/level-3) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/156) |
-|   4   |    내가 꿈꾸는 프로그래머로서의 삶     | [woowa-writing-2/level4](https://github.com/lxxjn0/woowa-writing-2/blob/level4/level-4/README.md) | [Pull Request](https://github.com/woowacourse/woowa-writing-2/pull/204) |
-
-<br/>
-
-## 🗃 Javable : 우아한테크코스 코드 리뷰 모음 블로그
-
-### 서비스
-
-- [Javable 블로그](https://woowacourse.github.io/javable/)
-
-### Github Repository
-
-- [javable](https://github.com/woowacourse/javable)
-
-### 활동 내용
-
-- [기능 구현 - 블로그 태그 및 페이지 기능](https://github.com/woowacourse/javable/pull/88)
-- [포스팅 - 하나의 테스트 케이스는 단위 기능 중 하나의 시나리오만 테스트하라](https://woowacourse.github.io/javable/2020-04-24/one-test-must-check-one-scenario)
-- [포스팅 - 메서드 시그니처를 수정하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-07/appropriate_method_for_test_by_parameter)
-- [포스팅 - 인터페이스를 분리하여 테스트하기 좋은 메서드로 만들기](https://woowacourse.github.io/javable/2020-05-17/appropriate_method_for_test_by_interface)
-- [포스팅 - 반복적으로 사용되는 인스턴스 캐싱하기](https://woowacourse.github.io/javable/2020-06-24/caching-instance)
-- [포스팅 - 왜 Constructor Injection을 사용해야 하는가?](https://woowacourse.github.io/javable/2020-07-18/di-constuctor-injection)
-- [포스팅 - else 예약어를 쓰지 않는다](https://woowacourse.github.io/javable/2020-07-29/dont-use-else)
-- [포스팅 - 사용성을 고려해 객체를 설계하자](https://woowacourse.github.io/javable/2020-08-18/plan-reusable-object)
-- [포스팅 - Java의 문자열을 파해치자!](https://woowacourse.github.io/javable/2020-09-07/dive-into-java-string)
-- [포스팅 - 테스트 더블에 대해 알아보자(진행중)](#)
-- [포스팅 - Mockito와 BDDMockito의 차이(진행중)](#)
-
