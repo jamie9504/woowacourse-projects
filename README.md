@@ -159,5 +159,7 @@
 |    jwp-was / step1    | [jwp-was/step1](https://github.com/jamie9504/jwp-was/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/108) |
 |    jwp-was / step2    | [jwp-was/step2](https://github.com/jamie9504/jwp-was/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/156) |
 |    jwp-was / step3    | [jwp-was/step3](https://github.com/jamie9504/jwp-was/tree/step3) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/157) |
+|    jwp-was / step4    | [jwp-was/step3](https://github.com/jamie9504/jwp-was/tree/step4) | [Pull Request](https://github.com/woowacourse/jwp-was/pull/210) |
 |    jwp-refactoring / step1    | [jwp-was/step1](https://github.com/jamie9504/jwp-refactoring/tree/step1) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/5) |
+|    jwp-refactoring / step2    | [jwp-was/step1](https://github.com/jamie9504/jwp-refactoring/tree/step2) | [Pull Request](https://github.com/woowacourse/jwp-refactoring/pull/80) |
 
